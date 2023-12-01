@@ -22,8 +22,10 @@ This repository contains a simple and secure email OTP (One-Time Password) authe
 1. Clone the repository: `git clone https://github.com/ztype764/node_auth_otp_login_api.git`
 2. Install dependencies: `npm install`
 3. Set up Firebase: Add `service_account.json`(client secret.json) and `firebase-config.js` with your Firebase credentials.
-4. Run the server: `npm start`
-5. Access the application at `http://localhost:3000`
+4. Add credentials to .env file, obtain them from GCC and oauthplayground
+5. Run the server: `npm start`
+6. Access the application at `http://localhost:3000`
+
 
 Feel free to explore and integrate this authentication system into your projects. Contributions and feedback are welcome!
 
